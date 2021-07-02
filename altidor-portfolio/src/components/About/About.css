@@ -1,0 +1,16 @@
+.about-container{
+  margin: 0rem 2rem;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.about-description{
+  width: 25rem;
+  line-height: 1.5rem;
+}
+
+.profile-pic{
+  height: 26rem;
+  margin-right: 9rem;
+}
