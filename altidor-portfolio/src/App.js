@@ -1,13 +1,23 @@
-import './App.css';
-import Nav from './components/Nav/Nav'
-import About from './components/About/About';
+import "./App.css";
+import Nav from "./components/Nav/Nav";
+import About from "./components/About/About";
+import Project from "./components/Projects/Project";
+import Contact from "./components/Contact/Contact";
 
 function App() {
   return (
-    <div className="App">
-      <Nav />
-      <About/>
-    </div>
+    <>
+      <div className="App">
+        <Nav />
+      </div>
+      <div>
+        <h2 className='about-header'>About Me.</h2>
+        <About />
+        <h2 className="projects-header">Projects.</h2>
+        <Project />
+        <Contact />
+      </div>
+    </>
   );
 }
 

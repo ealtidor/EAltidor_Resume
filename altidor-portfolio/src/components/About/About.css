@@ -1,16 +1,41 @@
+#about{
+  background-color: rgb(148, 190, 199);
+  height: 52rem;
+    display: flex;
+}
 .about-container{
   margin: 0rem 2rem;
   display: flex;
-  flex-direction: row;
-  justify-content: space-between;
+  flex-direction: column;
+  justify-content: center;
+    align-items: center;
 }
 
 .about-description{
-  width: 25rem;
-  line-height: 1.5rem;
+  width: 320px;
+  line-height: 2rem;
+    font-size: 1.1rem;
+    font-family: Gtwalsheimprotrial, sans-serif;
+    color: white;
+    font-weight: 600;
 }
 
 .profile-pic{
-  height: 26rem;
-  margin-right: 9rem;
+  width: 200px;
+  border-radius: 50%;
+  border: 5px solid white;
+  margin-bottom: 20px;
+}
+.about-header{
+    font-size: 12vw;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    text-align: left;
+    z-index: 10;
+    position: relative;
+    line-height: 0.6em;
+    pointer-events: none;
+    flex: 1 100%;
+    top: 0.2rem;
+    left: 1rem;
 }

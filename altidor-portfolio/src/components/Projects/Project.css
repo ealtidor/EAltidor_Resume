@@ -1,0 +1,31 @@
+.project-img{
+  height: 20rem;
+    width: 20rem;
+}
+.project-img-container{
+  display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-template-rows: 1fr 1fr;
+    justify-self: center;
+    gap: 1rem 1rem;
+    width: 6rem;
+    justify-items: center;
+}
+
+.projects-container{
+  margin: 2rem;
+}
+
+.projects-header{
+  font-size: 12vw;
+    font-weight: 800;
+    letter-spacing: -0.02em;
+    text-align: left;
+    z-index: 10;
+    position: relative;
+    line-height: 0.6em;
+    pointer-events: none;
+    flex: 1 100%;
+    top: 2rem;
+    left: 1rem;
+}
