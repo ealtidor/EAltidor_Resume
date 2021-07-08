@@ -15,12 +15,14 @@
 .projects-container{
   margin: 2rem;
   display: flex;
-    flex-direction: column;
-    align-items: center;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
 }
 
 .projects-header{
-  font-size: 12vw;
+  font-size: 3rem;
     font-weight: 800;
     letter-spacing: -0.02em;
     text-align: left;
@@ -39,6 +41,9 @@
   margin-top: 2rem;
   border: 1px solid rgba(0,0,0,.125);
   border-radius: .25rem;
+  width: 320px;
+  height: 434px;
+  margin: 4% 2%;
 }
 .card-body{
   padding: 20px;

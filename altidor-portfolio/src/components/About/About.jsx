@@ -15,7 +15,6 @@ export default function About() {
       </p>
         
       </div>
-      <a className='back-to-top' href='#nav'>Back to Top</a>
     </div>
   )
 }

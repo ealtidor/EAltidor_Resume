@@ -30,9 +30,40 @@
   margin-left: 75px;
 }
 
-.resume{
+.resume, .menu-item{
   margin-right: 31px;
   text-decoration: none;
     color: black;
     font-weight: 600;
+}
+
+
+ @media screen and (min-width: 700px) {
+   .name-logo{
+display: none;
+   }
+  
+}
+@media screen and (max-width: 699px) {
+  .name-text{
+display: none;
+  }
+ 
+}
+
+@media screen and (min-width: 1000px) {
+  .hamburger-menu{
+    display: none;
+  }
+  .resume{
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: 999px) {
+  .menu-item{
+    display: none;
+  }
+
 }
