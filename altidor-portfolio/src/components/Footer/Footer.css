@@ -1,7 +1,7 @@
 #footer{
   background-color: rgb(240, 240, 240);
   margin-top: 65px;
-  height: 6rem;
+  height: auto;
   display:flex;
   flex-direction: row;
   justify-content: space-between;
@@ -21,5 +21,5 @@
   color: black;
     text-decoration: none;
     padding: .5rem;
-    margin-right: 1rem;
+    margin-right: 2rem;
 }
