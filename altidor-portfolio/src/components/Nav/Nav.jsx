@@ -17,7 +17,7 @@ export default function Nav() {
         <a  className="menu-item" href="#projects">Projects</a>
         <a  className="menu-item" href="https://drive.google.com/file/d/1n0h17wUNuKfeenhfvLwVLmOMf_-7I0Lk/view?usp=sharing">Resume</a>
         <a className="menu-item" href="#contact">Contact</a>
-        <a className='resume' href="https://drive.google.com/file/d/1n0h17wUNuKfeenhfvLwVLmOMf_-7I0Lk/view?usp=sharing">Resume</a>
+        <a className='resume' target="_blank" href="https://drive.google.com/file/d/1n0h17wUNuKfeenhfvLwVLmOMf_-7I0Lk/view?usp=sharing">Resume</a>
       </div>
     </div>
   )
