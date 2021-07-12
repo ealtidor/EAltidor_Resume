@@ -17,12 +17,14 @@ export default function Project() {
             </p>
             <a
               className="app-button"
+              target="_blank" 
               href="https://yielding-zoo.surge.sh/"
             >
               See The App
             </a>
             <a
               className="code-button"
+              target="_blank" 
               href="https://github.com/ealtidor/Toggle"
             >
               See The Code
@@ -41,12 +43,14 @@ export default function Project() {
             </p>
             <a
               className="app-button"
+              target="_blank" 
               href="https://ealtidor.github.io/Makeup_Finder/"
             >
               See The App
             </a>
             <a
               className="code-button"
+              target="_blank" 
               href="https://github.com/ealtidor/Makeup_Finder"
             >
               See The Code
@@ -67,12 +71,14 @@ export default function Project() {
             </p>
             <a
               className="app-button"
+              target="_blank" 
               href="https://ealtidor.github.io/Makeup_Finder/"
             >
               See The App
             </a>
             <a
               className="code-button"
+              target="_blank" 
               href="https://github.com/ealtidor/Makeup_Finder"
             >
               See The Code
@@ -92,12 +98,14 @@ export default function Project() {
             </p>
             <a
               className="app-button"
+              target="_blank" 
               href="https://admiring-haibt-ba63a0.netlify.app"
             >
               See The App
             </a>
             <a
               className="code-button"
+              target="_blank" 
               href="https://github.com/ealtidor/Product-Junkies"
             >
               See The Code
