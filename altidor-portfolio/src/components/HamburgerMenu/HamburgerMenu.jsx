@@ -24,7 +24,7 @@ export default function HamburgerMenu() {
         <a
           className="menu-item"
           target="_blank"
-          href="https://drive.google.com/file/d/1n0h17wUNuKfeenhfvLwVLmOMf_-7I0Lk/view?usp=sharing"
+          href="https://drive.google.com/file/d/1EN9GJijaMA2UmBFQ0RNpz6OJnEnjlVi2/view?usp=sharing"
         >
           Resume
         </a>

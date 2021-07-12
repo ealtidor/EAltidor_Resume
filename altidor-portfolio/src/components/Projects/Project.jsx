@@ -44,14 +44,14 @@ export default function Project() {
             <a
               className="app-button"
               target="_blank" 
-              href="https://ealtidor.github.io/Makeup_Finder/"
+              href="https://ajec-recycle.netlify.app/"
             >
               See The App
             </a>
             <a
               className="code-button"
               target="_blank" 
-              href="https://github.com/ealtidor/Makeup_Finder"
+              href="https://github.com/ealtidor/AJEC-recycle"
             >
               See The Code
             </a>
