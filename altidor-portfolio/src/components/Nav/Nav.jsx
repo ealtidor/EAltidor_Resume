@@ -4,7 +4,7 @@ import HamburgerMenu from '../HamburgerMenu/HamburgerMenu.jsx'
 
 export default function Nav() {
   return (
-    <div id='nav' className='nav-container'>
+    <div id='nav' className='nav-container'>cx
       <div className='hamburger-menu'>
         <HamburgerMenu />
       </div>
@@ -15,9 +15,9 @@ export default function Nav() {
       <div className='menu-links'>
       <a className="menu-item" href="#about">About</a>
         <a  className="menu-item" href="#projects">Projects</a>
-        <a  className="menu-item"  target="_blank" href="https://drive.google.com/file/d/1EN9GJijaMA2UmBFQ0RNpz6OJnEnjlVi2/view?usp=sharing">Resume</a>
+        <a  className="menu-item"  target="_blank" href="https://drive.google.com/file/d/1tbIJUjIubCP8hky4Ou__Uf7ub0TjDSU6/view?usp=sharing">Resume</a>
         <a className="menu-item" href="#contact">Contact</a>
-        <a className='resume' target="_blank" href="https://drive.google.com/file/d/1EN9GJijaMA2UmBFQ0RNpz6OJnEnjlVi2/view?usp=sharing">Resume</a>
+        <a className='resume' target="_blank" href="https://drive.google.com/file/d/1tbIJUjIubCP8hky4Ou__Uf7ub0TjDSU6/view?usp=sharing">Resume</a>
       </div>
     </div>
   )
