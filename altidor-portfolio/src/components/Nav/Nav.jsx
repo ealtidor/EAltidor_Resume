@@ -4,7 +4,7 @@ import HamburgerMenu from '../HamburgerMenu/HamburgerMenu.jsx'
 
 export default function Nav() {
   return (
-    <div id='nav' className='nav-container'>cx
+    <div id='nav' className='nav-container'>
       <div className='hamburger-menu'>
         <HamburgerMenu />
       </div>
