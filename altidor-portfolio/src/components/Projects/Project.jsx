@@ -39,7 +39,7 @@ export default function Project() {
           />
           <div className="card-body">
             <h5 className="card-title">RE-CYCLE</h5>
-            <p className="card-text">Full-stack web application with React front-end, CSS, and backend with full-CRUD using Express, Mongoose and MongoDB. I developed the project delivery board and used Agile methodology to ensure we completed the project within 1 week. 
+            <p className="card-text">Full-stack web application with React front-end, CSS, and backend with full-CRUD using Express, Mongoose and MongoDB. Used Agile methodology to ensure we completed the project within the 1 week deadline. 
             </p>
             <a
               className="app-button"
